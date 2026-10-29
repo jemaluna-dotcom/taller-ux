@@ -2,7 +2,7 @@
 
 Formulario de inscripción rediseñado aplicando principios de UX/UI.
 
-Página publicada: https://jemaluna-dotcom.github.io/taller-ux/
+Página publicada: https://github.com/jemaluna-dotcom/taller-ux
 
 ## Cambios aplicados
 
